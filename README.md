@@ -8,4 +8,4 @@
 4. [Specialized brokers](https://www.brokerslink.com/partners-tech-firms)
 
 ### Copyrights
-Licensed under [@MIT](./LICENSE)
+Licensed under [@MIT](.LICENSE)
