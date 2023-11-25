@@ -1,6 +1,6 @@
 ### Brokerslink Partners & Affiliates - RShiny
 
-[RShiny App](https://hrk4l6-sinha0ujjawal.shinyapps.io/Brokerslink-Partners/) to scrape and show [Brokerslink](https://www.brokerslink.com/) partners & affiliates as a dataframe. Currently following data are being scraped-
+[RShiny App](https://hrk4l6-sinha0ujjawal.shinyapps.io/Brokerslink-Partners-RShiny/) to scrape and show [Brokerslink](https://www.brokerslink.com/) partners & affiliates as a dataframe. Currently following data are being scraped-
   
 1. [Insurance brokerage](https://www.brokerslink.com/partners-retail-brokers)
 2. [Reinsurance and wholesale](https://www.brokerslink.com/partners-specialist-brokers)
