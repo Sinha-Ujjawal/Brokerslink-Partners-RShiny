@@ -22,7 +22,7 @@ process_company_info <- function(company_info) {
   
   company_name <- company_info %>%
     html_nodes("span") %>%
-    (function(x) x[4]) %>%
+    (function(x) x[length(x)]) %>%
     html_text(trim = TRUE)
   
   c(company_name = company_name, company_link = company_link)
